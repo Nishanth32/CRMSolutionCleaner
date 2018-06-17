@@ -1,0 +1,11 @@
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\CRM Solution Manipulator.exe.config
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\CRM Solution Manipulator.exe
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\CRM Solution Manipulator.pdb
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\Microsoft.Xrm.Client.dll
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\Microsoft.Xrm.Sdk.dll
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\bin\Debug\Microsoft.Xrm.Sdk.Deployment.dll
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\obj\Debug\CRM Solution Manipulator.csproj.CRM Solution Manipulator.exe.config
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\obj\Debug\CRM Solution Manipulator.exe
+c:\users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\obj\Debug\CRM Solution Manipulator.pdb
+C:\Users\jebes\onedrive\documents\visual studio 2015\Projects\CRM Solution Manipulator\CRM Solution Manipulator\obj\Debug\CRM Solution Manipulator.csprojResolveAssemblyReference.cache
